@@ -31,7 +31,7 @@
         {
             "type": "cpu",
             "key": " ",
-            "format": "Intel i3-10100F ({7})",
+            "format": "{1} ({7})",
             "keyColor": "1"
         },
         {
