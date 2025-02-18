@@ -1,6 +1,6 @@
 Fastfetch config, place in ~/.config/fastfetch/
 
-NEEDED: Jetbrains mono nerd fonts
+REQUIRED: Nerd fonts
 
 Looks like this:
 
